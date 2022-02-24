@@ -9,7 +9,7 @@ public class Province {
 
   private static final String DEFAULT_PROVINCE_NAME = "British Columbia";
   private static final String DEFAULT_PROVINCE_CAPITAL = "Victoria";
-  private static final long DEFAULT_PROVINCE_POPULATION = 4648055;
+  private static final long DEFAULT_PROVINCE_POPULATION = 4648055L;
 
   private String name;
   private String capital;
